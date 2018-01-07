@@ -1,0 +1,25 @@
+mat-toolbar {
+  background-color: black;
+}
+
+.title {
+  margin-right: 1em;
+}
+
+.white {
+  color: white;
+}
+
+.title-button {
+  background-color: black;
+  height: 100%;
+}
+
+.title-button-active {
+  background-color: white;
+  color: black;
+}
+
+.container {
+  padding: 1em;
+}
